@@ -45,7 +45,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Apache&nbsp;Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=white"/>
 </p>
 
-
 <h3 align="center">Dev-Tools</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
@@ -61,13 +60,11 @@ Here are some ideas to get you started:
 
 <br>
 
-
-___
+---
 
 <br>
 
 <h3 align="center"> 📧 Contact & About Me</h3>
-
 
 <p align="center">
     <a href="mailto:songkg7@gmail.com" target="_blank">
@@ -81,15 +78,14 @@ ___
     </a>
 <!-- linkedin -->
 </p>
-<br>
-
-
 
 <p align="center">
     <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout"/>
 </p>
 
-___
+<br>
+
+---
 
 ### :octocat: My Github Stats
 
@@ -97,9 +93,8 @@ ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songkg7&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songkg7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- 
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 <table id="stats">
     <tr>
