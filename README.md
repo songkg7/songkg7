@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Favorite Techs</h3>
-<p aline="center">
+<p align="center">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <h4 align="center">Techs that I've used at least once</h4>
 
-<p aline="center">
+<p align="center">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Amazon&nbsp;AWS-232F32?style=flat-square&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 
 <h4 align="center">Collaboration</h4>
-<p aline="center">
+<p align="center">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira-software&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 </p>
@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 ---
 <br>
 
-### Contact
+<h3 align="center">Contact</h3>
 
 
-<p>
+<p align="center">
     <a href="mailto:songkg7@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
@@ -84,3 +84,11 @@ Here are some ideas to get you started:
         </td>
     </tr>
 </table>
+
+<br>
+<br>
+
+<!-- 조회수 -->
+<p align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongkg7&count_bg=%238D7BF5&title_bg=%23252323&icon=github.svg&icon_color=%23FFFDFD&title=hits&edge_flat=false"/></a>
+</p>
