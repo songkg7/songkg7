@@ -2,6 +2,8 @@
 
 <h2 align="center">🛠 Tech Stack 🛠</h2>
 
+<br>
+
 <!--
 **songkg7/songkg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,26 +19,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">Favorite Techs</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </p>
 
-<h4 align="center">Techs that I've used at least once</h4>
-
+<h3 align="center">Backend</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon&nbsp;AWS-232F32?style=flat-square&logo=amazon-aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=white"/>
+</p>
+
+<h3 align="center">DevOps</h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/Amazon&nbsp;AWS-232F32?style=flat-square&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apache&nbsp;Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=white"/>
+</p>
+
+
+<h4 align="center">Dev-Tools</h4>
+<p align="center">
+    <img src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 <h4 align="center">Collaboration</h4>
@@ -45,11 +59,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 </p>
 
-
----
 <br>
 
-<h3 align="center">Contact</h3>
+
+___
+
+<br>
+
+<h3 align="center"> 📧 More Info?</h3>
 
 
 <p align="center">
@@ -63,7 +80,7 @@ Here are some ideas to get you started:
 </p>
 <br>
 
----
+___
 
 ### :octocat: My Github Stats
 
