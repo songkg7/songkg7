@@ -34,14 +34,14 @@ Here are some ideas to get you started:
 
 <p aline="center">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F32?style=flat-square&logo=amazon aws&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon&nbsp;AWS-232F32?style=flat-square&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 <h4 align="center">Collaboration</h4>
 <p aline="center">
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira software&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira-software&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 </p>
 
