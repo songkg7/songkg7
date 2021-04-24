@@ -46,14 +46,14 @@ Here are some ideas to get you started:
 </p>
 
 
-<h4 align="center">Dev-Tools</h4>
+<h3 align="center">Dev-Tools</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-<h4 align="center">Collaboration</h4>
+<h3 align="center">Collaboration</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira-software&logoColor=white"/>
     <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
@@ -66,7 +66,7 @@ ___
 
 <br>
 
-<h3 align="center"> 📧 More Info?</h3>
+<h3 align="center"> 📧 Contact & About Me</h3>
 
 
 <p align="center">
@@ -75,6 +75,9 @@ ___
     </a>
     <a href="https://www.notion.so/441600f3b28c4a8491e0ced816964bb6" target="_blank">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+    </a>
+    <a href="https://songkg7.tistory.com" target="_blank">
+        <img src="https://img.shields.io/badge/Tech&nbsp;blog-54BBFF?style=flat-square&logo=github&logoColor=white"/>
     </a>
 <!-- linkedin -->
 </p>
@@ -88,16 +91,19 @@ ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songkg7&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songkg7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!--
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <table id="stats">
     <tr>
-        <td valign="top" width="50%">
+        <td valign="top" width="33%">
             <img src="https://github-readme-stats.vercel.app/api?username=songkg7&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
         </td>
-        <td valign="top" width="50%">
+        <td valign="top" width="33%">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songkg7&hide_border=true&layout=compact" align="left" style="width: 100%" />
+        </td>
+        <td valign="top" width="33%">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout=compact" align="left" style="width: 100%" />
         </td>
     </tr>
 </table>
@@ -106,6 +112,6 @@ ___
 <br>
 
 <!-- 조회수 -->
-<p align="right">
+<!-- <p align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongkg7&count_bg=%238D7BF5&title_bg=%23252323&icon=github.svg&icon_color=%23FFFDFD&title=hits&edge_flat=false"/></a>
-</p>
+</p> -->
