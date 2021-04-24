@@ -81,13 +81,14 @@ ___
     </a>
 <!-- linkedin -->
 </p>
-<br>
-
-
 
 <p align="center">
     <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout"/>
 </p>
+
+
+<br>
+
 
 ___
 
