@@ -83,6 +83,12 @@ ___
 </p>
 <br>
 
+
+
+<p align="center">
+    <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout"/>
+</p>
+
 ___
 
 ### :octocat: My Github Stats
@@ -91,19 +97,17 @@ ___
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songkg7&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songkg7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <table id="stats">
     <tr>
-        <td valign="top" width="33%">
+        <td valign="top" width="50%">
             <img src="https://github-readme-stats.vercel.app/api?username=songkg7&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
         </td>
-        <td valign="top" width="33%">
+        <td valign="top" width="50%">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songkg7&hide_border=true&layout=compact" align="left" style="width: 100%" />
-        </td>
-        <td valign="top" width="33%">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout=compact" align="left" style="width: 100%" />
         </td>
     </tr>
 </table>
@@ -112,6 +116,6 @@ ___
 <br>
 
 <!-- 조회수 -->
-<!-- <p align="right">
+<p align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongkg7&count_bg=%238D7BF5&title_bg=%23252323&icon=github.svg&icon_color=%23FFFDFD&title=hits&edge_flat=false"/></a>
-</p> -->
+</p>
