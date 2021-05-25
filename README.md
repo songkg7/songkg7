@@ -45,13 +45,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Apache&nbsp;Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=white"/>
 </p>
 
-<h3 align="center">Dev-Tools</h3>
-<p align="center">
-    <img src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-</p>
-
 <h3 align="center">Collaboration</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira-software&logoColor=white"/>
