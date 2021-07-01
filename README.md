@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     <a href="mailto:songkg7@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://www.notion.so/441600f3b28c4a8491e0ced816964bb6" target="_blank">
+    <a href="https://www.notion.so/0377dd16e02d48cd82fa76394507382c" target="_blank">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
     </a>
     <a href="https://songkg7.tistory.com" target="_blank">
