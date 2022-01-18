@@ -74,10 +74,10 @@ Here are some ideas to get you started:
     </a>
 <!-- linkedin -->
 </p>
-
+<!-- 
 <p align="center">
     <img src= "https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout"/>
-</p>
+</p> -->
 
 
 <br>
