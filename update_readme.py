@@ -5,13 +5,13 @@ rss_feed = feedparser.parse(blog_rss_url)
 
 MAX_POST_NUM = 5
 
-latest_blog_post_list = ""
+latest_blog_post_list = "### 📄 Blog\n"
 
 for idx, feed in enumerate(rss_feed['entries']):
     if idx > MAX_POST_NUM:
         break
     feed_date = feed['published_parsed']
-    latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
+    latest_blog_post_list += f"- [{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
 
 markdown_text = """
 ### Hi there 👋
@@ -123,15 +123,16 @@ ___
 
 <br>
 <br>
+"""
 
+view_count = """
 <!-- 조회수 -->
 <p align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongkg7&count_bg=%238D7BF5&title_bg=%23252323&icon=github.svg&icon_color=%23FFFDFD&title=hits&edge_flat=false"/></a>
 </p>
-
 """
 
-readme_text = f"{markdown_text}{latest_blog_post_list}"
+readme_text = f"{markdown_text}{latest_blog_post_list}{view_count}"
 
-with open("README.md", 'w', encoding='utf-8') as f:
+with open("README.md", 'w') as f:
     f.write(readme_text)
