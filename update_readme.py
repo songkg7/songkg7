@@ -5,7 +5,7 @@ rss_feed = feedparser.parse(blog_rss_url)
 
 MAX_POST_NUM = 5
 
-latest_blog_post_list = "### 📄 Blog\n"
+latest_blog_post_list = "### 📄 Blog <br>\n"
 
 for idx, feed in enumerate(rss_feed['entries']):
     if idx > MAX_POST_NUM:
@@ -123,6 +123,7 @@ ___
 
 <br>
 <br>
+
 """
 
 view_count = """
