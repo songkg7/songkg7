@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 <h2 align="center">🛠 Skills</h2>
@@ -112,3 +113,9 @@ ___
 <p align="right">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongkg7&count_bg=%238D7BF5&title_bg=%23252323&icon=github.svg&icon_color=%23FFFDFD&title=hits&edge_flat=false"/></a>
 </p>
+
+[2022/5/11 - Qodana 로 간단하게 코드 정적 분석하기](https://songkg7.github.io/posts/qodanaintroduction/) <br>
+[2022/4/21 - [Spring Batch] 복합 유니크의 문제점 및 Custom constraint writer 구현](https://songkg7.github.io/posts/multiconstraint/) <br>
+[2022/4/12 - AWS Lambda 와 TeamCity 로 배치 운영하기 2](https://songkg7.github.io/posts/teamcitylambda2/) <br>
+[2022/4/11 - AWS Lambda 와 TeamCity 로 배치 운영하기 1](https://songkg7.github.io/posts/teamcitylambda1/) <br>
+[2022/4/1 - [Kotlin] Infix functions](https://songkg7.github.io/posts/infix/) <br>
