@@ -4,9 +4,6 @@
 name: Update README
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "0 0 */1 * *"
   workflow_dispatch:
@@ -49,4 +46,8 @@ jobs:
           SHOW_UPDATED_DATE: "False"
           SHOW_LOC_CHART: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
-          COMMIT_MESSAGE: "Updated with Waka Readme"
+          SHOW_PROJECTS: "False"
+          SHOW_SHORT_INFO: "False"
+          COMMIT_BY_ME: "True"
+          SHOW_DAYS_OF_WEEKS: "False"
+          SHOW_TIMEZONE: "False"
