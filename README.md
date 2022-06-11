@@ -14,7 +14,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 📧 Contact & About Me
+## 📧 Contact & About Me
 
 <a href="mailto:songkg7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Tech&nbsp;blog-54BBFF?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-### :octocat: My Github Stats
+## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -38,7 +38,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songkg7&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-### 📄 Blog <br>
+## 📄 Blog <br>
 - [2022/6/10 - [Spring Batch] KafkaItemReader](https://songkg7.github.io/posts/kafkaitemreader/) <br>
 - [2022/5/11 - Qodana 로 간단하게 코드 정적 분석하기](https://songkg7.github.io/posts/qodanaintroduction/) <br>
 - [2022/4/21 - [Spring Batch] 복합 유니크의 문제점 및 Custom constraint writer 구현](https://songkg7.github.io/posts/multiconstraint/) <br>
