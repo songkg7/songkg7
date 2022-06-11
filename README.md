@@ -44,18 +44,22 @@ Here are some ideas to get you started:
 ### :octocat: My Github Stats
 
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songkg7&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songkg7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout=compact)
-![stat](https://github-readme-stats.vercel.app/api?username=songkg7&show_icons=true&count_private=true&hide_border=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=songkg7&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songkg7&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 
 ### 📄 Blog <br>
+- [2022/6/10 - [Spring Batch] KafkaItemReader](https://songkg7.github.io/posts/kafkaitemreader/) <br>
 - [2022/5/11 - Qodana 로 간단하게 코드 정적 분석하기](https://songkg7.github.io/posts/qodanaintroduction/) <br>
 - [2022/4/21 - [Spring Batch] 복합 유니크의 문제점 및 Custom constraint writer 구현](https://songkg7.github.io/posts/multiconstraint/) <br>
 - [2022/4/12 - AWS Lambda 와 TeamCity 로 배치 운영하기 2](https://songkg7.github.io/posts/teamcitylambda2/) <br>
 - [2022/4/11 - AWS Lambda 와 TeamCity 로 배치 운영하기 1](https://songkg7.github.io/posts/teamcitylambda1/) <br>
-- [2022/4/1 - [Kotlin] Infix functions](https://songkg7.github.io/posts/infix/) <br>
 
 <!-- 조회수 -->
 <p align="right">
