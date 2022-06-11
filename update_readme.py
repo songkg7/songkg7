@@ -5,7 +5,7 @@ rss_feed = feedparser.parse(blog_rss_url)
 
 MAX_POST_NUM = 5
 
-latest_blog_post_list = "### 📄 Blog <br>\n"
+latest_blog_post_list = "## 📄 Blog <br>\n"
 
 for idx, feed in enumerate(rss_feed['entries']):
     if idx > MAX_POST_NUM:
@@ -29,7 +29,7 @@ markdown_text = """
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### 📧 Contact & About Me
+## 📧 Contact & About Me
 
 <a href="mailto:songkg7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
@@ -41,7 +41,7 @@ markdown_text = """
     <img src="https://img.shields.io/badge/Tech&nbsp;blog-54BBFF?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
-### :octocat: My Github Stats
+## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
