@@ -2,7 +2,7 @@
 
 ## 🛠 Skills
 
-### Backend
+### BE
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
@@ -29,7 +29,6 @@
 ### :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
