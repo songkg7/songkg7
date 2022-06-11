@@ -59,11 +59,15 @@ Here are some ideas to get you started:
 ### :octocat: My Github Stats
 
 <!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songkg7&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=songkg7&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=Haril&layout=compact)
-![stat](https://github-readme-stats.vercel.app/api?username=songkg7&show_icons=true&count_private=true&hide_border=true)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=songkg7&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songkg7&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
 
 """
 
