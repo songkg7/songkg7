@@ -5,14 +5,16 @@
 ### BE
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ### DevOps
 
-![Aws](https://img.shields.io/badge/Amazon&nbsp;Web&nbsp;Service-232F32?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
 
 ## 📧 Contact & About Me
 
@@ -29,32 +31,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C047%20hrs%2024%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.57% 
-🌆 Daytime    313 commits    ████████░░░░░░░░░░░░░░░░░   31.52% 
-🌃 Evening    445 commits    ███████████░░░░░░░░░░░░░░   44.81% 
-🌙 Night      140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.1%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     19 hrs 32 mins      ███████████████░░░░░░░░░░   63.06% 
-YAML                     3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
-Markdown                 2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
-Python                   1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.16% 
-Groovy                   54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.94%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
