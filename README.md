@@ -15,6 +15,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 
 ## 📧 Contact & About Me
 
@@ -31,32 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C050%20hrs%205%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
-🌆 Daytime    312 commits    ███████░░░░░░░░░░░░░░░░░░   31.39% 
-🌃 Evening    448 commits    ███████████░░░░░░░░░░░░░░   45.07% 
-🌙 Night      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.19%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     19 hrs 7 mins       █████████████████░░░░░░░░   67.54% 
-YAML                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
-Markdown                 1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
-Python                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
-Gradle                   43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
