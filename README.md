@@ -32,32 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.42% 
-🌆 Daytime    321 commits    ████████░░░░░░░░░░░░░░░░░   31.85% 
-🌃 Evening    451 commits    ███████████░░░░░░░░░░░░░░   44.74% 
-🌙 Night      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.99%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     18 hrs 13 mins      ██████████████████░░░░░░░   71.96% 
-Kotlin                   1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.99% 
-YAML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.99% 
-Gradle                   49 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.28% 
-Groovy                   45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.99%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -68,11 +42,11 @@ Groovy                   45 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/6/20 - 'sitemap.xml 을 찾을 수 없습니다' 해결하기](https://songkg7.github.io/posts/sitemap-error/) <br>
 - [2022/6/10 - [Spring Batch] KafkaItemReader](https://songkg7.github.io/posts/kafkaitemreader/) <br>
 - [2022/5/11 - Qodana 로 간단하게 코드 정적 분석하기](https://songkg7.github.io/posts/qodanaintroduction/) <br>
 - [2022/4/21 - [Spring Batch] 복합 유니크의 문제점 및 Custom constraint writer 구현](https://songkg7.github.io/posts/multiconstraint/) <br>
 - [2022/4/12 - AWS Lambda 와 TeamCity 로 배치 운영하기 2](https://songkg7.github.io/posts/teamcitylambda2/) <br>
-- [2022/4/11 - AWS Lambda 와 TeamCity 로 배치 운영하기 1](https://songkg7.github.io/posts/teamcitylambda1/) <br>
 
 <!-- 조회수 -->
 <p align="right">
