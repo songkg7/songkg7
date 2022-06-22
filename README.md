@@ -5,7 +5,7 @@
 ### BE
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ### DevOps
@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
-🌆 Daytime    323 commits    ████████░░░░░░░░░░░░░░░░░   31.82% 
-🌃 Evening    456 commits    ███████████░░░░░░░░░░░░░░   44.93% 
-🌙 Night      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     15 hrs 24 mins      ███████████████░░░░░░░░░░   62.34% 
-SQL                      2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
-Kotlin                   1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.16% 
-Markdown                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.96% 
-YAML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.19%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
