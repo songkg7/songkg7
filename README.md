@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.32% 
-🌆 Daytime    327 commits    ████████░░░░░░░░░░░░░░░░░   32.09% 
-🌃 Evening    456 commits    ███████████░░░░░░░░░░░░░░   44.75% 
-🌙 Night      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.84%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     14 hrs 28 mins      ███████████████░░░░░░░░░░   61.35% 
-SQL                      2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
-Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.8% 
-Kotlin                   1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.56% 
-Go                       29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.07%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -66,11 +42,11 @@ Go                       29 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/6/23 - getter/setter 에 대한 사실과 오해](https://songkg7.github.io/posts/getter-and-setter/) <br>
 - [2022/6/20 - 'sitemap.xml 을 찾을 수 없습니다' 해결하기](https://songkg7.github.io/posts/sitemap-error/) <br>
 - [2022/6/10 - [Spring Batch] KafkaItemReader](https://songkg7.github.io/posts/kafkaitemreader/) <br>
 - [2022/5/11 - Qodana 로 간단하게 코드 정적 분석하기](https://songkg7.github.io/posts/qodanaintroduction/) <br>
 - [2022/4/21 - [Spring Batch] 복합 유니크의 문제점 및 Custom constraint writer 구현](https://songkg7.github.io/posts/multiconstraintwriter/) <br>
-- [2022/4/12 - AWS Lambda 와 TeamCity 로 배치 운영하기 2](https://songkg7.github.io/posts/teamcitylambda2/) <br>
 
 <!-- 조회수 -->
 <p align="right">
