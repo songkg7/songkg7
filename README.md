@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.25% 
-🌆 Daytime    333 commits    ████████░░░░░░░░░░░░░░░░░   32.42% 
-🌃 Evening    458 commits    ███████████░░░░░░░░░░░░░░   44.6% 
-🌙 Night      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.73%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     15 hrs 1 min        ██████████████░░░░░░░░░░░   59.35% 
-Markdown                 4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59% 
-SQL                      3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
-Groovy                   34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.26% 
-Go                       29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -70,7 +46,7 @@ Go                       29 mins             ░░░░░░░░░░░�
 - [2022/6/20 - 'sitemap.xml 을 찾을 수 없습니다' 해결하기](https://songkg7.github.io/posts/sitemap-error/) <br>
 - [2022/6/10 - [Spring Batch] KafkaItemReader](https://songkg7.github.io/posts/kafkaitemreader/) <br>
 - [2022/5/11 - Qodana 로 간단하게 코드 정적 분석하기](https://songkg7.github.io/posts/qodanaintroduction/) <br>
-- [2022/4/21 - [Spring Batch] 복합 유니크의 문제점 및 Custom constraint writer 구현](https://songkg7.github.io/posts/multiconstraintwriter/) <br>
+- [2022/4/21 - [Spring Batch] Custom constraint writer 구현](https://songkg7.github.io/posts/multiconstraintwriter/) <br>
 
 <!-- 조회수 -->
 <p align="right">
