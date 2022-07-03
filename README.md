@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
-🌆 Daytime    337 commits    ████████░░░░░░░░░░░░░░░░░   32.56% 
-🌃 Evening    462 commits    ███████████░░░░░░░░░░░░░░   44.64% 
-🌙 Night      141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     14 hrs 35 mins      ███████████░░░░░░░░░░░░░░   44.43% 
-YAML                     4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78% 
-Markdown                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18% 
-Text                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.66% 
-Groovy                   1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.77%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -66,7 +42,7 @@ Groovy                   1 hr 53 mins        █░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
-- [2022/6/25 - 우아한 HTTP CLI, httpie](https://songkg7.github.io/posts/httpie/) <br>
+- [2022/6/25 - 우아한 HTTP CLI, HTTPie](https://songkg7.github.io/posts/httpie/) <br>
 - [2022/6/23 - getter/setter 에 대한 사실과 오해](https://songkg7.github.io/posts/getter-and-setter/) <br>
 - [2022/6/20 - 'sitemap.xml 을 찾을 수 없습니다' 해결하기](https://songkg7.github.io/posts/sitemap-error/) <br>
 - [2022/6/10 - [Spring Batch] KafkaItemReader](https://songkg7.github.io/posts/kafkaitemreader/) <br>
