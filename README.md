@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    95 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.47% 
-🌆 Daytime    330 commits    ████████░░░░░░░░░░░░░░░░░   32.9% 
-🌃 Evening    439 commits    ███████████░░░░░░░░░░░░░░   43.77% 
-🌙 Night      139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.86%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     17 hrs 42 mins      █████████████░░░░░░░░░░░░   51.74% 
-TypeScript               5 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-YAML                     2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.56% 
-Gradle                   1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.05% 
-Groovy                   1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -66,10 +42,10 @@ Groovy                   1 hr 43 mins        █░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/7/15 - [Java] First collection(일급 컬렉션)을 더욱 Collection 답게 - iterable](https://songkg7.github.io/posts/iterator/) <br>
 - [2022/6/25 - 우아한 HTTP CLI, HTTPie](https://songkg7.github.io/posts/httpie/) <br>
 - [2022/6/23 - getter/setter 에 대한 사실과 오해](https://songkg7.github.io/posts/getter-and-setter/) <br>
 - [2022/6/20 - 'sitemap.xml 을 찾을 수 없습니다' 해결하기](https://songkg7.github.io/posts/sitemap-error/) <br>
-- [2022/6/10 - [Java] 일급 컬렉션을 더욱 Collection 답게 - iterable](https://songkg7.github.io/posts/iterator/) <br>
 - [2022/6/10 - [Spring Batch] KafkaItemReader](https://songkg7.github.io/posts/kafkaitemreader/) <br>
 
 <!-- 조회수 -->
