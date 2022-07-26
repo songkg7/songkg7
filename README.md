@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.82% 
-🌆 Daytime    339 commits    ████████░░░░░░░░░░░░░░░░░   32.98% 
-🌃 Evening    448 commits    ███████████░░░░░░░░░░░░░░   43.58% 
-🌙 Night      140 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.62%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     11 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   42.94% 
-Go                       6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34% 
-YAML                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.75% 
-Markdown                 2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.92% 
-Docker                   1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.73%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -66,11 +42,11 @@ Docker                   1 hr 43 mins        █░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/7/22 - [Kubernetes] 쿠버네티스 훑어보기](https://songkg7.github.io/posts/kubernetes-start/) <br>
 - [2022/7/15 - [Java] First collection(일급 컬렉션)을 더욱 Collection 답게 - iterable](https://songkg7.github.io/posts/iterator/) <br>
 - [2022/6/25 - 우아한 HTTP CLI, HTTPie](https://songkg7.github.io/posts/httpie/) <br>
 - [2022/6/23 - getter/setter 에 대한 사실과 오해](https://songkg7.github.io/posts/getter-and-setter/) <br>
 - [2022/6/20 - 'sitemap.xml 을 찾을 수 없습니다' 해결하기](https://songkg7.github.io/posts/sitemap-error/) <br>
-- [2022/6/10 - [Spring Batch] KafkaItemReader](https://songkg7.github.io/posts/kafkaitemreader/) <br>
 
 <!-- 조회수 -->
 <p align="right">
