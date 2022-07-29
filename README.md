@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    103 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.11% 
-🌆 Daytime    340 commits    ████████░░░░░░░░░░░░░░░░░   33.37% 
-🌃 Evening    437 commits    ██████████░░░░░░░░░░░░░░░   42.89% 
-🌙 Night      139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     14 hrs 57 mins      ██████████████░░░░░░░░░░░   59.23% 
-Markdown                 3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48% 
-Go                       2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.8% 
-Docker                   1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.71% 
-SQL                      1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.76%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -66,11 +42,11 @@ SQL                      1 hr 27 mins        █░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/7/28 - Why Docker?](https://songkg7.github.io/posts/whydocker/) <br>
 - [2022/7/22 - [Kubernetes] 쿠버네티스 훑어보기](https://songkg7.github.io/posts/kubernetes-start/) <br>
 - [2022/7/15 - [Java] First collection(일급 컬렉션)을 더욱 Collection 답게 - iterable](https://songkg7.github.io/posts/iterator/) <br>
 - [2022/6/25 - 우아한 HTTP CLI, HTTPie](https://songkg7.github.io/posts/httpie/) <br>
 - [2022/6/23 - getter/setter 에 대한 사실과 오해](https://songkg7.github.io/posts/getter-and-setter/) <br>
-- [2022/6/20 - 'sitemap.xml 을 찾을 수 없습니다' 해결하기](https://songkg7.github.io/posts/sitemap-error/) <br>
 
 <!-- 조회수 -->
 <p align="right">
