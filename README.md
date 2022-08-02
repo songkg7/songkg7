@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    104 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.17% 
-🌆 Daytime    341 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌃 Evening    439 commits    ██████████░░░░░░░░░░░░░░░   42.91% 
-🌙 Night      139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.59%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     19 hrs 58 mins      ████████████████░░░░░░░░░   65.14% 
-Markdown                 2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.79% 
-Docker                   2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.11% 
-SQL                      1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
-YAML                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.8%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -66,11 +42,11 @@ YAML                     1 hr 28 mins        █░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/7/29 - [Jacoco] 멀티 모듈의 Jacoco report 를 하나로 합치기](https://songkg7.github.io/posts/jacoco-aggregation-report/) <br>
 - [2022/7/28 - Why Docker?](https://songkg7.github.io/posts/whydocker/) <br>
 - [2022/7/22 - [Kubernetes] 쿠버네티스 훑어보기](https://songkg7.github.io/posts/kubernetes-start/) <br>
 - [2022/7/15 - [Java] First collection(일급 컬렉션)을 더욱 Collection 답게 - iterable](https://songkg7.github.io/posts/iterator/) <br>
 - [2022/6/25 - 우아한 HTTP CLI, HTTPie](https://songkg7.github.io/posts/httpie/) <br>
-- [2022/6/23 - getter/setter 에 대한 사실과 오해](https://songkg7.github.io/posts/getter-and-setter/) <br>
 
 <!-- 조회수 -->
 <p align="right">
