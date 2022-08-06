@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    105 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
-🌆 Daytime    345 commits    ████████░░░░░░░░░░░░░░░░░   33.63% 
-🌃 Evening    437 commits    ██████████░░░░░░░░░░░░░░░   42.59% 
-🌙 Night      139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.55%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     16 hrs 16 mins      ████████████████░░░░░░░░░   67.49% 
-Markdown                 2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.41% 
-Docker                   1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.4% 
-YAML                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.82% 
-Groovy                   58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.07%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -66,11 +42,11 @@ Groovy                   58 mins             █░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/8/3 - Docker volume](https://songkg7.github.io/posts/docker-volume/) <br>
 - [2022/7/29 - [Jacoco] 멀티 모듈의 Jacoco report 를 하나로 합치기](https://songkg7.github.io/posts/jacoco-aggregation-report/) <br>
 - [2022/7/28 - Why Docker?](https://songkg7.github.io/posts/whydocker/) <br>
 - [2022/7/22 - [Kubernetes] 쿠버네티스 훑어보기](https://songkg7.github.io/posts/kubernetes-start/) <br>
 - [2022/7/15 - [Java] First collection(일급 컬렉션)을 더욱 Collection 답게 - iterable](https://songkg7.github.io/posts/iterator/) <br>
-- [2022/6/25 - 우아한 HTTP CLI, HTTPie](https://songkg7.github.io/posts/httpie/) <br>
 
 <!-- 조회수 -->
 <p align="right">
