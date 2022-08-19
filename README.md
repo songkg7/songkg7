@@ -32,37 +32,12 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    110 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.32% 
-🌆 Daytime    323 commits    ████████░░░░░░░░░░░░░░░░░   33.23% 
-🌃 Evening    412 commits    ██████████░░░░░░░░░░░░░░░   42.39% 
-🌙 Night      127 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.07%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   1 hr 54 mins        ███████████░░░░░░░░░░░░░░   44.36% 
-Markdown                 1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   28.28% 
-Java                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.09% 
-HTTP Request             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=songkg7&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songkg7&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=html,css">
 </p>
 
 ## 📄 Blog <br>
