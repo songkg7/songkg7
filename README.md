@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-🌆 Daytime    300 commits    █████████░░░░░░░░░░░░░░░░   35.89% 
-🌃 Evening    357 commits    ██████████░░░░░░░░░░░░░░░   42.7% 
-🌙 Night      77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.21%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     26 hrs 38 mins      ██████████████████░░░░░░░   71.69% 
-SQL                      4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74% 
-Kotlin                   2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.18% 
-textmate                 1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
-YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -65,11 +41,11 @@ YAML                     32 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/8/25 - mac 키보드 반복입력 활성화](https://songkg7.github.io/posts/mac-typo-repeat/) <br>
 - [2022/8/9 - Docker network](https://songkg7.github.io/posts/docker-network/) <br>
 - [2022/8/3 - Docker volume](https://songkg7.github.io/posts/docker-volume/) <br>
 - [2022/7/29 - [Jacoco] 멀티 모듈의 Jacoco report 를 하나로 합치기](https://songkg7.github.io/posts/jacoco-aggregation-report/) <br>
 - [2022/7/28 - Why Docker?](https://songkg7.github.io/posts/whydocker/) <br>
-- [2022/7/22 - [Kubernetes] 쿠버네티스 훑어보기](https://songkg7.github.io/posts/kubernetes-start/) <br>
 
 <!-- 조회수 -->
 <p align="right">
