@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
-🌆 Daytime    331 commits    █████████░░░░░░░░░░░░░░░░   36.66% 
-🌃 Evening    384 commits    ██████████░░░░░░░░░░░░░░░   42.52% 
-🌙 Night      77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.53%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     28 hrs 9 mins       ██████████████████░░░░░░░   75.42% 
-Kotlin                   3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.25% 
-YAML                     2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   5.39% 
-Markdown                 1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.14% 
-SQL                      43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.94%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -65,11 +41,11 @@ SQL                      43 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/9/19 - Fixture monkey 살펴보기](https://songkg7.github.io/posts/Fixture-monkey-overview/) <br>
 - [2022/9/15 - JetBrains Fleet early preview](https://songkg7.github.io/posts/jetbrains-fleet-preview/) <br>
 - [2022/9/2 - Vimium shortcut 변경하는 법](https://songkg7.github.io/posts/vimium-change-shortcut/) <br>
 - [2022/8/25 - mac 키보드 반복입력 활성화](https://songkg7.github.io/posts/mac-typo-repeat/) <br>
 - [2022/8/9 - Docker network](https://songkg7.github.io/posts/docker-network/) <br>
-- [2022/8/3 - Docker volume](https://songkg7.github.io/posts/docker-volume/) <br>
 
 <!-- 조회수 -->
 <p align="right">
