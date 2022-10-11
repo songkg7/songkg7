@@ -32,30 +32,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-🌆 Daytime    331 commits    █████████░░░░░░░░░░░░░░░░   36.49% 
-🌃 Evening    386 commits    ██████████░░░░░░░░░░░░░░░   42.56% 
-🌙 Night      77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.49%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     26 hrs 15 mins      ███████████████████░░░░░░   78.6% 
-Markdown                 1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
-Kotlin                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
-Go                       47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37% 
-YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.25%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -65,7 +41,7 @@ YAML                     45 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
-- [2022/9/19 - Fixture monkey 살펴보기](https://songkg7.github.io/posts/Fixture-monkey-overview/) <br>
+- [2022/9/19 - Fixture monkey 객체 생성 전략](https://songkg7.github.io/posts/Fixture-monkey-overview/) <br>
 - [2022/9/15 - JetBrains Fleet early preview](https://songkg7.github.io/posts/jetbrains-fleet-preview/) <br>
 - [2022/9/2 - Vimium shortcut 변경하는 법](https://songkg7.github.io/posts/vimium-change-shortcut/) <br>
 - [2022/8/25 - mac 키보드 반복입력 활성화](https://songkg7.github.io/posts/mac-typo-repeat/) <br>
