@@ -15,6 +15,11 @@ for idx, feed in enumerate(rss_feed['entries']):
 
 markdown_text = """
 
+# Hi there 👋
+
+I'm haril song, a software engineer from South Korea. I'm interested in web development, infrastructure, and more.
+ I'm currently working at startup company as a backend developer.
+
 ## 🛠 Skills
 
 ### BE
@@ -23,7 +28,7 @@ markdown_text = """
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-### DevOps
+### Infra
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
@@ -32,7 +37,7 @@ markdown_text = """
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 
-## 📧 Contact & About Me
+## 📫 How to reach me
 
 <a href="mailto:songkg7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
