@@ -1,5 +1,10 @@
 
 
+# Hi there 👋
+
+I'm haril song, a software engineer from South Korea. I'm interested in web development, infrastructure, and more.
+ I'm currently working at startup company as a backend developer.
+
 ## 🛠 Skills
 
 ### BE
@@ -8,7 +13,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
-### DevOps
+### Infra
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
@@ -17,7 +22,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 
-## 📧 Contact & About Me
+## 📫 How to reach me
 
 <a href="mailto:songkg7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
@@ -32,30 +37,6 @@
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    118 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.94% 
-🌆 Daytime    328 commits    █████████░░░░░░░░░░░░░░░░   35.96% 
-🌃 Evening    389 commits    ██████████░░░░░░░░░░░░░░░   42.65% 
-🌙 Night      77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.44%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     17 hrs 22 mins      ████████████████████░░░░░   79.95% 
-SQL                      1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.53% 
-Kotlin                   1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.27% 
-Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.0% 
-YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
