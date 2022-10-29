@@ -37,30 +37,6 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    116 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
-🌆 Daytime    327 commits    █████████░░░░░░░░░░░░░░░░   37.2% 
-🌃 Evening    373 commits    ██████████░░░░░░░░░░░░░░░   42.43% 
-🌙 Night      63 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.17%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     12 hrs 39 mins      ████████████░░░░░░░░░░░░░   47.55% 
-Kotlin                   6 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.28% 
-SQL                      3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.7% 
-YAML                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.3% 
-Markdown                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
@@ -70,11 +46,11 @@ Markdown                 1 hr 3 mins         █░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/10/28 - Could not find a valid Docker environment](https://songkg7.github.io/posts/docer-environment-error/) <br>
 - [2022/9/19 - Fixture monkey 객체 생성 전략](https://songkg7.github.io/posts/Fixture-monkey-overview/) <br>
 - [2022/9/15 - JetBrains Fleet early preview](https://songkg7.github.io/posts/jetbrains-fleet-preview/) <br>
 - [2022/9/2 - Vimium shortcut 변경하는 법](https://songkg7.github.io/posts/vimium-change-shortcut/) <br>
 - [2022/8/25 - mac 키보드 반복입력 활성화](https://songkg7.github.io/posts/mac-typo-repeat/) <br>
-- [2022/8/9 - Docker network](https://songkg7.github.io/posts/docker-network/) <br>
 
 <!-- 조회수 -->
 <p align="right">
