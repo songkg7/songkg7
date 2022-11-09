@@ -37,33 +37,7 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.75% 
-🌆 Daytime    335 commits    █████████░░░░░░░░░░░░░░░░   37.47% 
-🌃 Evening    377 commits    ██████████░░░░░░░░░░░░░░░   42.17% 
-🌙 Night      68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.61%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     10 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   39.87% 
-YAML                     4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95% 
-Kotlin                   3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
-JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.96% 
-AsciiDoc                 1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.95%
-
-```
-
-
 <!--END_SECTION:waka-->
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=songkg7)](https://solved.ac/songkg7)
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=songkg7&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
