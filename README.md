@@ -37,30 +37,6 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
-🌆 Daytime    336 commits    █████████░░░░░░░░░░░░░░░░   38.18% 
-🌃 Evening    378 commits    ██████████░░░░░░░░░░░░░░░   42.95% 
-🌙 Night      68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.73%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     10 hrs 31 mins      █████████░░░░░░░░░░░░░░░░   36.96% 
-Groovy                   3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.88% 
-Kotlin                   3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
-Gradle                   2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
-YAML                     2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.67%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -68,11 +44,11 @@ YAML                     2 hrs 45 mins       ██░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/11/9 - diff 를 좀 더 직관적으로, difftastic](https://songkg7.github.io/posts/difftastic/) <br>
 - [2022/10/28 - Could not find a valid Docker environment](https://songkg7.github.io/posts/docer-environment-error/) <br>
 - [2022/9/19 - Fixture monkey 객체 생성 전략](https://songkg7.github.io/posts/Fixture-monkey-overview/) <br>
 - [2022/9/15 - JetBrains Fleet early preview](https://songkg7.github.io/posts/jetbrains-fleet-preview/) <br>
 - [2022/9/2 - Vimium shortcut 변경하는 법](https://songkg7.github.io/posts/vimium-change-shortcut/) <br>
-- [2022/8/25 - mac 키보드 반복입력 활성화](https://songkg7.github.io/posts/mac-typo-repeat/) <br>
 
 <!-- 조회수 -->
 <p align="right">
