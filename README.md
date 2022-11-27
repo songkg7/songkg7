@@ -37,30 +37,6 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.99% 
-🌆 Daytime    342 commits    █████████░░░░░░░░░░░░░░░░   37.96% 
-🌃 Evening    395 commits    ███████████░░░░░░░░░░░░░░   43.84% 
-🌙 Night      74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     25 hrs 24 mins      ███████████████████░░░░░░   76.24% 
-YAML                     3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.87% 
-Kotlin                   1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
-HTTP Request             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49% 
-Text                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -68,11 +44,11 @@ Text                     23 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/11/21 - ZonedDateTime 사용시 주의점 - Object.equals vs Assertions.isEqualTo](https://songkg7.github.io/posts/compare-zoneddatetime/) <br>
 - [2022/11/9 - diff 를 좀 더 직관적으로, difftastic](https://songkg7.github.io/posts/difftastic/) <br>
 - [2022/10/28 - Could not find a valid Docker environment](https://songkg7.github.io/posts/docer-environment-error/) <br>
 - [2022/9/19 - Fixture monkey 객체 생성 전략](https://songkg7.github.io/posts/Fixture-monkey-overview/) <br>
 - [2022/9/15 - JetBrains Fleet early preview](https://songkg7.github.io/posts/jetbrains-fleet-preview/) <br>
-- [2022/9/2 - Vimium shortcut 변경하는 법](https://songkg7.github.io/posts/vimium-change-shortcut/) <br>
 
 <!-- 조회수 -->
 <p align="right">
