@@ -37,30 +37,6 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.99% 
-🌆 Daytime    341 commits    █████████░░░░░░░░░░░░░░░░   37.85% 
-🌃 Evening    396 commits    ███████████░░░░░░░░░░░░░░   43.95% 
-🌙 Night      74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.21%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     30 hrs 16 mins      ███████████████████░░░░░░   77.63% 
-YAML                     4 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.62% 
-Markdown                 1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.98% 
-Kotlin                   53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.05%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -68,11 +44,11 @@ Text                     24 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/11/22 - WebFlux 에서 Date type 을 url parameter 로 사용하기](https://songkg7.github.io/posts/date-parameter-with-webflux/) <br>
 - [2022/11/21 - ZonedDateTime 사용시 주의점 - Object.equals vs Assertions.isEqualTo](https://songkg7.github.io/posts/compare-zoneddatetime/) <br>
 - [2022/11/9 - diff 를 좀 더 직관적으로, difftastic](https://songkg7.github.io/posts/difftastic/) <br>
 - [2022/10/28 - Could not find a valid Docker environment](https://songkg7.github.io/posts/docer-environment-error/) <br>
 - [2022/9/19 - Fixture monkey 객체 생성 전략](https://songkg7.github.io/posts/Fixture-monkey-overview/) <br>
-- [2022/9/15 - JetBrains Fleet early preview](https://songkg7.github.io/posts/jetbrains-fleet-preview/) <br>
 
 <!-- 조회수 -->
 <p align="right">
