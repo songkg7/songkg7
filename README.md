@@ -37,30 +37,6 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-🌆 Daytime    342 commits    █████████░░░░░░░░░░░░░░░░   37.92% 
-🌃 Evening    398 commits    ███████████░░░░░░░░░░░░░░   44.12% 
-🌙 Night      74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     26 hrs 46 mins      ███████████████████░░░░░░   78.63% 
-YAML                     3 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.06% 
-Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.23% 
-AsciiDoc                 43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.15% 
-SQL                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.68%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -68,11 +44,11 @@ SQL                      13 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2022/12/5 - Fixture Monkey 0.4.x](https://songkg7.github.io/posts/labmonkey/) <br>
 - [2022/11/22 - WebFlux 에서 Date type 을 url parameter 로 사용하기](https://songkg7.github.io/posts/date-parameter-with-webflux/) <br>
 - [2022/11/21 - ZonedDateTime 사용시 주의점 - Object.equals vs Assertions.isEqualTo](https://songkg7.github.io/posts/compare-zoneddatetime/) <br>
 - [2022/11/9 - diff 를 좀 더 직관적으로, difftastic](https://songkg7.github.io/posts/difftastic/) <br>
 - [2022/10/28 - Could not find a valid Docker environment](https://songkg7.github.io/posts/docer-environment-error/) <br>
-- [2022/9/19 - Fixture monkey 객체 생성 전략](https://songkg7.github.io/posts/Fixture-monkey-overview/) <br>
 
 <!-- 조회수 -->
 <p align="right">
