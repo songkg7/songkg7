@@ -37,7 +37,13 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 
-## 📫 How to reach me
+## 🏆 Contribution
+
+### Google APIs
+
+- [java-logging-logback](https://github.com/googleapis/java-logging-logback/pull/969)
+
+## 📫 Contact
 
 <a href="mailto:songkg7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
@@ -46,7 +52,7 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 <a href="https://songkg7.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Tech&nbsp;blog-54BBFF?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tech&nbsp;blog-0A2647?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 ## :octocat: My Github Stats
