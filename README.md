@@ -22,7 +22,13 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
 
-## 📫 How to reach me
+## 🏆 Contribution
+
+### Google APIs
+
+- [java-logging-logback](https://github.com/googleapis/java-logging-logback/pull/969)
+
+## 📫 Contact
 
 <a href="mailto:songkg7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
@@ -31,36 +37,12 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 <a href="https://songkg7.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Tech&nbsp;blog-54BBFF?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tech&nbsp;blog-0A2647?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.42% 
-🌆 Daytime    333 commits    █████████░░░░░░░░░░░░░░░░   35.96% 
-🌃 Evening    427 commits    ███████████░░░░░░░░░░░░░░   46.11% 
-🌙 Night      88 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.5%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     8 hrs 58 mins       ███████████████░░░░░░░░░░   59.54% 
-XML                      3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81% 
-YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-AUTO_DETECTED            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61% 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.3%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
