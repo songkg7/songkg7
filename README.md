@@ -43,30 +43,6 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    79 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-🌆 Daytime    334 commits    █████████░░░░░░░░░░░░░░░░   35.95% 
-🌃 Evening    430 commits    ███████████░░░░░░░░░░░░░░   46.29% 
-🌙 Night      86 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.26%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     12 hrs 9 mins       █████████████░░░░░░░░░░░░   53.55% 
-XML                      4 hrs 42 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74% 
-Markdown                 3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
-Groovy                   25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.85%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -74,11 +50,11 @@ Groovy                   25 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2023/1/2 - 2022년 회고 겸 삶의 지도](https://songkg7.github.io/posts/mapoflife/) <br>
 - [2022/12/5 - Fixture Monkey 0.4.x](https://songkg7.github.io/posts/labmonkey/) <br>
 - [2022/11/22 - WebFlux 에서 Date type 을 url parameter 로 사용하기](https://songkg7.github.io/posts/date-parameter-with-webflux/) <br>
 - [2022/11/21 - ZonedDateTime 사용시 주의점 - Object.equals vs Assertions.isEqualTo](https://songkg7.github.io/posts/compare-zoneddatetime/) <br>
 - [2022/11/9 - diff 를 좀 더 직관적으로, difftastic](https://songkg7.github.io/posts/difftastic/) <br>
-- [2022/10/28 - Could not find a valid Docker environment](https://songkg7.github.io/posts/docer-environment-error/) <br>
 
 <!-- 조회수 -->
 <p align="right">
