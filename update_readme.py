@@ -31,6 +31,7 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ### Infra
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -50,6 +51,9 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 </a>
 <a href="https://www.notion.so/0377dd16e02d48cd82fa76394507382c" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/경근-송-b63216210/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://songkg7.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Tech&nbsp;blog-0A2647?style=flat-square&logo=github&logoColor=white"/>
