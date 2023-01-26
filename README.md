@@ -47,30 +47,6 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
-🌆 Daytime    340 commits    █████████░░░░░░░░░░░░░░░░   36.21% 
-🌃 Evening    431 commits    ███████████░░░░░░░░░░░░░░   45.9% 
-🌙 Night      85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     8 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   42.45% 
-Markdown                 5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   26.36% 
-Lua                      3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
-YAML                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42% 
-TOML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -78,11 +54,11 @@ TOML                     23 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2023/1/25 - Test 의 실행속도를 빠르게, Spring context mocking](https://songkg7.github.io/posts/spring-context-mocking/) <br>
 - [2023/1/2 - 2022년 회고 겸 삶의 지도](https://songkg7.github.io/posts/mapoflife/) <br>
 - [2022/12/5 - Fixture Monkey 0.4.x](https://songkg7.github.io/posts/labmonkey/) <br>
 - [2022/11/22 - WebFlux 에서 Date type 을 url parameter 로 사용하기](https://songkg7.github.io/posts/date-parameter-with-webflux/) <br>
 - [2022/11/21 - ZonedDateTime 사용시 주의점 - Object.equals vs Assertions.isEqualTo](https://songkg7.github.io/posts/compare-zoneddatetime/) <br>
-- [2022/11/9 - diff 를 좀 더 직관적으로, difftastic](https://songkg7.github.io/posts/difftastic/) <br>
 
 <!-- 조회수 -->
 <p align="right">
