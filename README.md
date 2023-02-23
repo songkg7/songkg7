@@ -47,30 +47,6 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning      134 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-🌆 Daytime      499 commits       █████████░░░░░░░░░░░░░░░░   38.86 % 
-🌃 Evening      537 commits       ██████████░░░░░░░░░░░░░░░   41.82 % 
-🌙 Night        114 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               14 hrs 32 mins      █████████████░░░░░░░░░░░░   51.52 % 
-Markdown                 6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
-Java                     2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JavaScript               50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -78,11 +54,11 @@ JavaScript               50 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2023/2/22 - O2 - Obsidian plugin 개발하기](https://songkg7.github.io/posts/develop-obsidian-plugin/) <br>
 - [2023/1/31 - Google Kubernetes Engine 를 Local CLI 를 통해 관리하기](https://songkg7.github.io/posts/gcloud-cli-for-gke/) <br>
 - [2023/1/25 - Test 의 실행속도를 빠르게, Spring context mocking](https://songkg7.github.io/posts/spring-context-mocking/) <br>
 - [2023/1/2 - 2022년 회고 겸 삶의 지도](https://songkg7.github.io/posts/mapoflife/) <br>
 - [2022/12/5 - Fixture Monkey 0.4.x](https://songkg7.github.io/posts/labmonkey/) <br>
-- [2022/11/22 - WebFlux 에서 Date type 을 url parameter 로 사용하기](https://songkg7.github.io/posts/date-parameter-with-webflux/) <br>
 
 <!-- 조회수 -->
 <p align="right">
