@@ -40,9 +40,8 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 
 ## 🏆 Contribution
 
-### Google APIs
-
-- [java-logging-logback](https://github.com/googleapis/java-logging-logback/pull/969)
+- Google : [java-logging-logback](https://github.com/googleapis/java-logging-logback/pull/969)
+- Obsidian : [O2 plugin](https://github.com/songkg7/o2)
 
 ## 📫 Contact
 
