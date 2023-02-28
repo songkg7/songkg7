@@ -25,9 +25,8 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 
 ## 🏆 Contribution
 
-### Google APIs
-
-- [java-logging-logback](https://github.com/googleapis/java-logging-logback/pull/969)
+- Google : [java-logging-logback](https://github.com/googleapis/java-logging-logback/pull/969)
+- Obsidian : [O2 plugin](https://github.com/songkg7/o2)
 
 ## 📫 Contact
 
@@ -47,28 +46,6 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-🌆 Daytime                506 commits         ██████████░░░░░░░░░░░░░░░   38.69 % 
-🌃 Evening                547 commits         ██████████░░░░░░░░░░░░░░░   41.82 % 
-🌙 Night                  119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 13 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Java                     9 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-TypeScript               7 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-YAML                     3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-JSON                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
