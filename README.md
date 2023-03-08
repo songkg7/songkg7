@@ -46,28 +46,6 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
-🌆 Daytime                510 commits         ██████████░░░░░░░░░░░░░░░   38.64 % 
-🌃 Evening                555 commits         ███████████░░░░░░░░░░░░░░   42.05 % 
-🌙 Night                  119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     14 hrs 10 mins      ████████████░░░░░░░░░░░░░   49.61 % 
-Markdown                 6 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-SQL                      3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-TypeScript               1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-YAML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -75,11 +53,11 @@ YAML                     54 mins             █░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2023/3/6 - JdbcItemReader sortKeys 설정시 주의사항](https://songkg7.github.io/posts/JdbcItemReader-sortKeys-cautions/) <br>
 - [2023/2/22 - O2 - Obsidian plugin 개발하기](https://songkg7.github.io/posts/develop-obsidian-plugin/) <br>
 - [2023/1/31 - Google Kubernetes Engine 를 Local CLI 를 통해 관리하기](https://songkg7.github.io/posts/gcloud-cli-for-gke/) <br>
 - [2023/1/25 - Test 의 실행속도를 빠르게, Spring context mocking](https://songkg7.github.io/posts/spring-context-mocking/) <br>
 - [2023/1/2 - 2022년 회고 겸 삶의 지도](https://songkg7.github.io/posts/mapoflife/) <br>
-- [2022/12/5 - Fixture Monkey 0.4.x](https://songkg7.github.io/posts/labmonkey/) <br>
 
 <!-- 조회수 -->
 <p align="right">
