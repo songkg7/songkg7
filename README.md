@@ -53,11 +53,11 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 </p>
 
 ## 📄 Blog <br>
+- [2023/3/10 - [O2] Design pattern 으로 코드 생산성 개선하기](https://songkg7.github.io/posts/Refactor-O2-using-desgin-pattern/) <br>
 - [2023/3/6 - JdbcItemReader sortKeys 설정시 주의사항](https://songkg7.github.io/posts/JdbcItemReader-sortKeys-cautions/) <br>
 - [2023/2/22 - O2 - Obsidian plugin 개발하기](https://songkg7.github.io/posts/develop-obsidian-plugin/) <br>
 - [2023/1/31 - Google Kubernetes Engine 를 Local CLI 를 통해 관리하기](https://songkg7.github.io/posts/gcloud-cli-for-gke/) <br>
 - [2023/1/25 - Test 의 실행속도를 빠르게, Spring context mocking](https://songkg7.github.io/posts/spring-context-mocking/) <br>
-- [2023/1/2 - 2022년 회고 겸 삶의 지도](https://songkg7.github.io/posts/mapoflife/) <br>
 
 <!-- 조회수 -->
 <p align="right">
