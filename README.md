@@ -46,28 +46,6 @@ I'm haril song, a software engineer from South Korea. I'm interested in web deve
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                430 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-🌆 Daytime                1355 commits        █████████░░░░░░░░░░░░░░░░   35.55 % 
-🌃 Evening                1586 commits        ██████████░░░░░░░░░░░░░░░   41.62 % 
-🌙 Night                  440 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 10 hrs 49 mins      ████████████░░░░░░░░░░░░░   46.63 % 
-Java                     5 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Kotlin                   4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-SQL                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -75,11 +53,11 @@ SQL                      20 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2023/4/8 - chezmoi, 본격적으로 활용하기](https://songkg7.github.io/posts/chezmoi-basic-settings/) <br>
 - [2023/3/25 - chezmoi, 세상 편리하게 dotfile 관리하기](https://songkg7.github.io/posts/chezmoi-awesome-dotfile-manager/) <br>
 - [2023/3/15 - [Spring Batch] 복합키 상황에서의 페이징 최적화하기](https://songkg7.github.io/posts/Optimize-query-when-using-composite-key/) <br>
 - [2023/3/10 - [O2] Design pattern 으로 코드 생산성 개선하기](https://songkg7.github.io/posts/Refactor-O2-using-desgin-pattern/) <br>
 - [2023/3/6 - JdbcItemReader sortKeys 설정시 주의사항](https://songkg7.github.io/posts/JdbcItemReader-sortKeys-cautions/) <br>
-- [2023/2/22 - [O2] Obsidian plugin 개발하기](https://songkg7.github.io/posts/develop-obsidian-plugin/) <br>
 
 <!-- 조회수 -->
 <p align="right">
