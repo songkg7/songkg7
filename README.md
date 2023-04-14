@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm haril song, a software engineer from South Korea. I'm interested in web development, infrastructure, and more.
+I'm haril song(shorten, haril 하릴), a software engineer from South Korea. I'm interested in web development, infrastructure, and more.
  I'm currently working at startup company as a backend developer.
 
 ## 🛠 Skills
