@@ -46,28 +46,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                432 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-🌆 Daytime                1377 commits        █████████░░░░░░░░░░░░░░░░   35.53 % 
-🌃 Evening                1619 commits        ██████████░░░░░░░░░░░░░░░   41.77 % 
-🌙 Night                  448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Kotlin                   12 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-Java                     12 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-Markdown                 9 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-TypeScript               4 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-HTTP Request             2 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -75,11 +53,11 @@ HTTP Request             2 hrs 47 mins       █░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2023/4/19 - '글을 잘 쓴다는 것'은 무엇일까? - 글쓰기 파이프라인](https://songkg7.github.io/posts/blog-posting-pipeline/) <br>
 - [2023/4/8 - chezmoi, 본격적으로 활용하기](https://songkg7.github.io/posts/chezmoi-basic-settings/) <br>
 - [2023/3/25 - chezmoi, 세상 편리하게 dotfile 관리하기](https://songkg7.github.io/posts/chezmoi-awesome-dotfile-manager/) <br>
 - [2023/3/15 - [Spring Batch] 복합키 상황에서의 페이징 최적화하기](https://songkg7.github.io/posts/Optimize-query-when-using-composite-key/) <br>
 - [2023/3/10 - [O2] Design pattern 으로 코드 생산성 개선하기](https://songkg7.github.io/posts/Refactor-O2-using-desgin-pattern/) <br>
-- [2023/3/6 - JdbcItemReader sortKeys 설정시 주의사항](https://songkg7.github.io/posts/JdbcItemReader-sortKeys-cautions/) <br>
 
 <!-- 조회수 -->
 <p align="right">
