@@ -46,28 +46,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                449 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-🌆 Daytime                1400 commits        █████████░░░░░░░░░░░░░░░░   35.12 % 
-🌃 Evening                1672 commits        ██████████░░░░░░░░░░░░░░░   41.95 % 
-🌙 Night                  465 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 8 hrs 24 mins       ██████████████░░░░░░░░░░░   57.93 % 
-YAML                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-Java                     1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-HTTP Request             1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-XML                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -75,11 +53,11 @@ XML                      36 mins             █░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2023/5/20 - Garbage Collection 에 대한 이해](https://songkg7.github.io/posts/Garbage-Collection/) <br>
 - [2023/4/26 - 블로그 검색 노출을 위한 이미지 최적화하기](https://songkg7.github.io/posts/Image-optimazation-for-SEO/) <br>
 - [2023/4/19 - '글을 잘 쓴다는 것'은 무엇일까? - 글쓰기 파이프라인](https://songkg7.github.io/posts/blog-posting-pipeline/) <br>
 - [2023/4/8 - chezmoi, 본격적으로 활용하기](https://songkg7.github.io/posts/chezmoi-basic-settings/) <br>
 - [2023/3/25 - chezmoi, 세상 편리하게 dotfile 관리하기](https://songkg7.github.io/posts/chezmoi-awesome-dotfile-manager/) <br>
-- [2023/3/15 - [Spring Batch] 복합키 상황에서의 페이징 최적화하기](https://songkg7.github.io/posts/Optimize-query-when-using-composite-key/) <br>
 
 <!-- 조회수 -->
 <p align="right">
