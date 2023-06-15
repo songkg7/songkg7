@@ -46,28 +46,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                522 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-🌆 Daytime                1594 commits        █████████░░░░░░░░░░░░░░░░   35.50 % 
-🌃 Evening                1793 commits        ██████████░░░░░░░░░░░░░░░   39.93 % 
-🌙 Night                  581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     14 hrs 8 mins       ██████████████░░░░░░░░░░░   56.20 % 
-YAML                     5 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-Markdown                 2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-JSON                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-textmate                 43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -76,10 +54,10 @@ textmate                 43 mins             █░░░░░░░░░░�
 
 ## 📄 Blog <br>
 - [2023/6/4 - [대규모 시스템 설계 기초] 5장. 안정 해시 설계](https://songkg7.github.io/posts/Consistent-Hashing/) <br>
-- [2023/6/4 - [대규모 시스템 설계 기초] 5장. 안정 해시 설계](https://songkg7.github.io/posts/Consistent-Hashing-2/) <br>
 - [2023/5/20 - Garbage Collection 에 대한 이해](https://songkg7.github.io/posts/Garbage-Collection/) <br>
 - [2023/4/26 - 블로그 검색 노출을 위한 이미지 최적화하기](https://songkg7.github.io/posts/Image-optimazation-for-SEO/) <br>
 - [2023/4/19 - '글을 잘 쓴다는 것'은 무엇일까? - 글쓰기 파이프라인](https://songkg7.github.io/posts/blog-posting-pipeline/) <br>
+- [2023/4/8 - chezmoi, 본격적으로 활용하기](https://songkg7.github.io/posts/chezmoi-basic-settings/) <br>
 
 <!-- 조회수 -->
 <p align="right">
