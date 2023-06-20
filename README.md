@@ -46,28 +46,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-🌆 Daytime                1435 commits        █████████░░░░░░░░░░░░░░░░   35.17 % 
-🌃 Evening                1706 commits        ██████████░░░░░░░░░░░░░░░   41.81 % 
-🌙 Night                  477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     12 hrs 12 mins      ███████████░░░░░░░░░░░░░░   42.54 % 
-YAML                     9 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.17 % 
-Markdown                 3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-SQL                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-HTTP Request             34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -75,11 +53,11 @@ HTTP Request             34 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2023/6/19 - 남들보다 잘 하는 개발자, 어제보다 잘 하는 개발자](https://songkg7.github.io/posts/better-then-others-better-then-yesterday/) <br>
 - [2023/6/17 - Spring Batch 5.0 Changes](https://songkg7.github.io/posts/Spring-Batch-Changes/) <br>
 - [2023/6/4 - [대규모 시스템 설계 기초] 5장. 안정 해시 설계](https://songkg7.github.io/posts/Consistent-Hashing/) <br>
 - [2023/5/20 - Garbage Collection 에 대한 이해](https://songkg7.github.io/posts/Garbage-Collection/) <br>
 - [2023/4/26 - 블로그 검색 노출을 위한 이미지 최적화하기](https://songkg7.github.io/posts/Image-optimazation-for-SEO/) <br>
-- [2023/4/19 - '글을 잘 쓴다는 것'은 무엇일까? - 글쓰기 파이프라인](https://songkg7.github.io/posts/blog-posting-pipeline/) <br>
 
 <!-- 조회수 -->
 <p align="right">
