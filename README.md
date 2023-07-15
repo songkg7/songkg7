@@ -46,28 +46,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                522 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-🌆 Daytime                1593 commits        █████████░░░░░░░░░░░░░░░░   35.38 % 
-🌃 Evening                1830 commits        ██████████░░░░░░░░░░░░░░░   40.64 % 
-🌙 Night                  558 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 3 hrs 4 mins        ███████████████████░░░░░░   74.62 % 
-Java                     43 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
-Kotlin                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -75,11 +53,11 @@ YAML                     0 secs              ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2023/7/14 - 1년여간의 블로그 여정](https://songkg7.github.io/posts/Journey-with-Devlog-2022-2023/) <br>
 - [2023/7/1 - Jenkins 로 EC2 비용 절약하기](https://songkg7.github.io/posts/EC2-cost-optimization-with-Jenkins/) <br>
 - [2023/6/19 - 남들보다 잘 하는 개발자, 어제보다 잘 하는 개발자](https://songkg7.github.io/posts/better-then-others-better-then-yesterday/) <br>
 - [2023/6/17 - Spring Batch 5.0 Changes](https://songkg7.github.io/posts/Spring-Batch-Changes/) <br>
 - [2023/6/4 - [대규모 시스템 설계 기초] 5장. 안정 해시 설계](https://songkg7.github.io/posts/Consistent-Hashing/) <br>
-- [2023/5/20 - Garbage Collection 에 대한 이해](https://songkg7.github.io/posts/Garbage-Collection/) <br>
 
 <!-- 조회수 -->
 <p align="right">
