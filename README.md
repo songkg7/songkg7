@@ -46,28 +46,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                561 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-🌆 Daytime                1584 commits        █████████░░░░░░░░░░░░░░░░   35.03 % 
-🌃 Evening                1833 commits        ██████████░░░░░░░░░░░░░░░   40.54 % 
-🌙 Night                  544 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 17 hrs 38 mins      ████████████░░░░░░░░░░░░░   48.18 % 
-Java                     9 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-TypeScript               3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-HTTP Request             3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-SQL                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -78,8 +56,8 @@ SQL                      45 mins             █░░░░░░░░░░�
 - [2023/7/27 - Spring Boot 3.1 의 Docker Compose Support 알아보기](https://songkg7.github.io/posts/Spring-Boot-With-Docker-Compose/) <br>
 - [2023/7/14 - 1년여간의 블로그 여정](https://songkg7.github.io/posts/Journey-with-Devlog-2022-2023/) <br>
 - [2023/7/1 - Jenkins 로 EC2 비용 절약하기](https://songkg7.github.io/posts/EC2-cost-optimization-with-Jenkins/) <br>
-- [2023/6/19 - 남들보다 잘 하는 개발자, 어제보다 잘 하는 개발자](https://songkg7.github.io/posts/better-then-others-better-then-yesterday/) <br>
 - [2023/6/17 - Spring Batch 5.0 Changes](https://songkg7.github.io/posts/Spring-Batch-Changes/) <br>
+- [2023/6/4 - [대규모 시스템 설계 기초] 5장. 안정 해시 설계](https://songkg7.github.io/posts/Consistent-Hashing/) <br>
 
 <!-- 조회수 -->
 <p align="right">
