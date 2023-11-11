@@ -46,28 +46,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                899 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-🌆 Daytime                1941 commits        █████████░░░░░░░░░░░░░░░░   34.66 % 
-🌃 Evening                2094 commits        █████████░░░░░░░░░░░░░░░░   37.39 % 
-🌙 Night                  666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 16 hrs 43 mins      ██████████████████████░░░   88.83 % 
-Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Java                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Kotlin                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -75,11 +53,11 @@ Kotlin                   11 mins             ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2023/11/10 - 1대의 서버 애플리케이션은 최대 몇 개의 동시 요청을 감당할 수 있을까?](https://songkg7.github.io/posts/Spring-MVC-Traffic-Testing/) <br>
 - [2023/8/16 - [대규모 시스템 설계 기초] 직접 구현해보는 URL 단축기](https://songkg7.github.io/posts/URL-Shortener/) <br>
 - [2023/7/27 - Spring Boot 3.1 의 Docker Compose Support 알아보기](https://songkg7.github.io/posts/Spring-Boot-With-Docker-Compose/) <br>
 - [2023/7/14 - 1년여간의 블로그 여정](https://songkg7.github.io/posts/Journey-with-Devlog-2022-2023/) <br>
 - [2023/7/1 - Jenkins 로 EC2 비용 절약하기](https://songkg7.github.io/posts/EC2-cost-optimization-with-Jenkins/) <br>
-- [2023/6/17 - Spring Batch 5.0 Changes](https://songkg7.github.io/posts/Spring-Batch-Changes/) <br>
 
 <!-- 조회수 -->
 <p align="right">
