@@ -46,28 +46,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1011 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-🌆 Daytime                1974 commits        █████████░░░░░░░░░░░░░░░░   34.05 % 
-🌃 Evening                2140 commits        █████████░░░░░░░░░░░░░░░░   36.91 % 
-🌙 Night                  673 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 20 hrs 35 mins      ████████████████████░░░░░   81.35 % 
-Java                     4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -75,11 +53,11 @@ YAML                     0 secs              ░░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2023/12/10 - Java 에서 Hello World 를 출력하기까지 1](https://songkg7.github.io/posts/Java-Hello-World-Deepdive-1/) <br>
 - [2023/11/10 - 1대의 서버 애플리케이션은 최대 몇 개의 동시 요청을 감당할 수 있을까?](https://songkg7.github.io/posts/Spring-MVC-Traffic-Testing/) <br>
 - [2023/8/16 - [대규모 시스템 설계 기초] 직접 구현해보는 URL 단축기](https://songkg7.github.io/posts/URL-Shortener/) <br>
 - [2023/7/27 - Spring Boot 3.1 의 Docker Compose Support 알아보기](https://songkg7.github.io/posts/Spring-Boot-With-Docker-Compose/) <br>
 - [2023/7/14 - 1년여간의 블로그 여정](https://songkg7.github.io/posts/Journey-with-Devlog-2022-2023/) <br>
-- [2023/7/1 - Jenkins 로 EC2 비용 절약하기](https://songkg7.github.io/posts/EC2-cost-optimization-with-Jenkins/) <br>
 
 <!-- 조회수 -->
 <p align="right">
