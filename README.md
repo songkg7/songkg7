@@ -46,28 +46,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1012 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-🌆 Daytime                1991 commits        █████████░░░░░░░░░░░░░░░░   34.35 % 
-🌃 Evening                2108 commits        █████████░░░░░░░░░░░░░░░░   36.36 % 
-🌙 Night                  686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 6 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.22 % 
-Java                     2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-YAML                     2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-TypeScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-SQL                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-```
-
-
 <!--END_SECTION:waka-->
 
 <p>
@@ -75,11 +53,11 @@ SQL                      44 mins             █░░░░░░░░░░�
 </p>
 
 ## 📄 Blog <br>
+- [2024/1/7 - Java 에서 Hello World 를 출력하기까지 3](https://songkg7.github.io/posts/Java-Hello-World-Deepdive-3/) <br>
 - [2023/12/22 - Java 에서 Hello World 를 출력하기까지 2](https://songkg7.github.io/posts/Java-Hello-World-Deepdive-2/) <br>
 - [2023/12/10 - Java 에서 Hello World 를 출력하기까지 1](https://songkg7.github.io/posts/Java-Hello-World-Deepdive-1/) <br>
 - [2023/11/10 - 1대의 서버 애플리케이션은 최대 몇 개의 동시 요청을 감당할 수 있을까?](https://songkg7.github.io/posts/Spring-MVC-Traffic-Testing/) <br>
 - [2023/8/16 - [대규모 시스템 설계 기초] 직접 구현해보는 URL 단축기](https://songkg7.github.io/posts/URL-Shortener/) <br>
-- [2023/7/27 - Spring Boot 3.1 의 Docker Compose Support 알아보기](https://songkg7.github.io/posts/Spring-Boot-With-Docker-Compose/) <br>
 
 <!-- 조회수 -->
 <p align="right">
