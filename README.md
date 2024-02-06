@@ -27,14 +27,12 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 
 - Google : [java-logging-logback](https://github.com/googleapis/java-logging-logback/pull/969)
 - Obsidian : [O2 plugin](https://github.com/songkg7/o2)
+- Naver : [Fixture Monkey](https://github.com/naver/fixture-monkey)
 
 ## 📫 Contact
 
 <a href="mailto:songkg7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.notion.so/0377dd16e02d48cd82fa76394507382c" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/경근-송-b63216210/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
