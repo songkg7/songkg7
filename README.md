@@ -5,41 +5,25 @@
 I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'm interested in web development, infrastructure, and more.
  I'm currently working at startup company as a backend developer.
 
-## 🛠 Skills
-
-### BE
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-### Infra
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
-
 ## 🏆 Contribution
 
-- Google : [java-logging-logback](https://github.com/googleapis/java-logging-logback/pull/969)
-- Obsidian : [O2 plugin](https://github.com/songkg7/o2)
-- Naver : [Fixture Monkey](https://github.com/naver/fixture-monkey)
+### Logback
 
-## 📫 Contact
+- https://github.com/googleapis/java-logging-logback/pull/969
 
-<a href="mailto:songkg7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/경근-송-b63216210/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://songkg7.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Tech&nbsp;blog-0A2647?style=flat-square&logo=github&logoColor=white"/>
-</a>
+### Obsidian
+
+- https://github.com/obsidianmd/obsidian-releases/pull/1678
+
+### Fixture Monkey
+
+- https://github.com/naver/fixture-monkey/pull/934
+- https://github.com/naver/fixture-monkey/pull/912
+- https://github.com/naver/fixture-monkey/pull/915
+- https://github.com/naver/fixture-monkey/pull/903
+- https://github.com/naver/fixture-monkey/pull/896
+- https://github.com/naver/fixture-monkey/pull/872
+- https://github.com/naver/fixture-monkey/pull/875
 
 ## :octocat: My Github Stats
 
