@@ -35,11 +35,11 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 </p>
 
 ## 📄 Blog <br>
+- [2024/3/3 - Spatial index 를 활용한 공간 데이터 조회 최적화](https://songkg7.github.io/posts/Spatial-index/) <br>
 - [2024/2/3 - Fixture Monkey](https://songkg7.github.io/posts/Fixture-Monkey/) <br>
 - [2024/1/7 - Java 에서 Hello World 를 출력하기까지 3](https://songkg7.github.io/posts/Java-Hello-World-Deepdive-3/) <br>
 - [2023/12/22 - Java 에서 Hello World 를 출력하기까지 2](https://songkg7.github.io/posts/Java-Hello-World-Deepdive-2/) <br>
 - [2023/12/10 - Java 에서 Hello World 를 출력하기까지 1](https://songkg7.github.io/posts/Java-Hello-World-Deepdive-1/) <br>
-- [2023/11/10 - 1대의 서버 애플리케이션은 최대 몇 개의 동시 요청을 감당할 수 있을까?](https://songkg7.github.io/posts/Spring-MVC-Traffic-Testing/) <br>
 
 <!-- 조회수 -->
 <p align="right">
