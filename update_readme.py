@@ -32,13 +32,7 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 
 ### Fixture Monkey
 
-- https://github.com/naver/fixture-monkey/pull/934
-- https://github.com/naver/fixture-monkey/pull/912
-- https://github.com/naver/fixture-monkey/pull/915
-- https://github.com/naver/fixture-monkey/pull/903
-- https://github.com/naver/fixture-monkey/pull/896
-- https://github.com/naver/fixture-monkey/pull/872
-- https://github.com/naver/fixture-monkey/pull/875
+- Add 'InnerSpec.keys()' Method with Collection Parameter Support https://github.com/naver/fixture-monkey/pull/934
 
 ## :octocat: My Github Stats
 
