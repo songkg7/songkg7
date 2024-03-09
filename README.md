@@ -28,6 +28,8 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
   <img height="180em" src="https://github-readme-stats-liart-gamma.vercel.app/api?username=songkg7&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/songkg7?theme=light&font=Lato&ext=heatmap)
+
 ## 📄 Blog <br>
 - [2024/3/3 - Spatial index 를 활용한 공간 데이터 조회 최적화](https://songkg7.github.io/posts/Spatial-index/) <br>
 - [2024/2/3 - Fixture Monkey](https://songkg7.github.io/posts/Fixture-Monkey/) <br>
