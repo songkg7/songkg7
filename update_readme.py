@@ -34,6 +34,9 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 
 - Add 'InnerSpec.keys()' Method with Collection Parameter Support https://github.com/naver/fixture-monkey/pull/934
 
+"""
+
+embeded = """
 ## :octocat: My Github Stats
 
 <!--START_SECTION:waka-->
@@ -54,7 +57,7 @@ view_count = """
 </p>
 """
 
-readme_text = f"{markdown_text}{latest_blog_post_list}{view_count}"
+readme_text = f"{markdown_text}{latest_blog_post_list}{embeded}{view_count}"
 
 with open("README.md", 'w') as f:
     f.write(readme_text)
