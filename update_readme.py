@@ -34,6 +34,8 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 
 - Add 'InnerSpec.keys()' Method with Collection Parameter Support https://github.com/naver/fixture-monkey/pull/934
 
+[![gitanimals](https://render.gitanimals.org/farms/{username})](https://github.com/devxb/gitanimals)
+
 """
 
 embeded = """
