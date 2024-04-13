@@ -39,14 +39,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 """
 
 embeded = """
-## :octocat: My Github Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<p>
-  <img height="180em" src="https://github-readme-stats-liart-gamma.vercel.app/api?username=songkg7&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-</p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/songkg7?theme=light&font=Lato&ext=heatmap)
 
