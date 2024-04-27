@@ -40,8 +40,6 @@ embeded = """
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/songkg7?theme=light&font=Lato&ext=heatmap)
 
-[![gitanimals](https://render.gitanimals.org/farms/songkg7)](https://github.com/devxb/gitanimals)
-
 """
 
 view_count = """
