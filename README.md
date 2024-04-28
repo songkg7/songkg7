@@ -29,8 +29,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/songkg7?theme=light&font=Lato&ext=heatmap)
 
-[![gitanimals](https://render.gitanimals.org/farms/songkg7)](https://github.com/devxb/gitanimals)
-
 
 <!-- 조회수 -->
 <p align="right">
