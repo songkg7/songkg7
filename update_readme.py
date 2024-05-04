@@ -1,6 +1,6 @@
 import feedparser
 
-blog_rss_url = "https://songkg7.github.io/feed.xml"
+blog_rss_url = "https://songkg7.github.io/blog/rss.xml"
 rss_feed = feedparser.parse(blog_rss_url)
 
 MAX_POST_NUM = 5
