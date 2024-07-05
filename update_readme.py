@@ -1,7 +1,9 @@
 import feedparser
+import requests
 
 blog_rss_url = "https://haril.dev/blog/rss.xml"
-rss_feed = feedparser.parse(blog_rss_url)
+response = requests.get(blog_rss_url, verify=True)
+rss_feed = feedparser.parse(response.content)
 
 MAX_POST_NUM = 5
 
