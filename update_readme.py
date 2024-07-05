@@ -39,12 +39,6 @@ I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'
 
 """
 
-embeded = """
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/songkg7?theme=light&font=Lato&ext=heatmap)
-
-"""
-
 view_count = """
 <!-- 조회수 -->
 <p align="right">
@@ -52,7 +46,7 @@ view_count = """
 </p>
 """
 
-readme_text = f"{markdown_text}{latest_blog_post_list}{embeded}{view_count}"
+readme_text = f"{markdown_text}{latest_blog_post_list}{view_count}"
 
 with open("README.md", 'w') as f:
     f.write(readme_text)
