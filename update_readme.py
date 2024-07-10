@@ -1,8 +1,16 @@
 import feedparser
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+session = requests.Session()
+retry = Retry(connect=5, backoff_factor=0.5)
+adapter = HTTPAdapter(max_retries=retry)
+session.mount('http://', adapter)
+session.mount('https://', adapter)
 
 blog_rss_url = "https://haril.dev/blog/rss.xml"
-response = requests.get(blog_rss_url, verify=False)
+response = session.get(blog_rss_url, verify=True)
 rss_feed = feedparser.parse(response.content)
 
 MAX_POST_NUM = 5
