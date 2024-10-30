@@ -30,8 +30,10 @@ markdown_text = """
 
 # Hi there 👋
 
-I'm haril song(in short, haril 하릴), a software engineer from South Korea. I'm interested in web development, infrastructure, and more.
- I'm currently working at startup company as a backend developer.
+I'm haril song(in short, haril 하릴), a software engineer from South Korea.
+
+I'm interested in web development, infrastructure, and more.
+I'm currently working at 42dot.
 
 ## 🏆 Contribution
 
