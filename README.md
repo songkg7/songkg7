@@ -22,12 +22,12 @@ I'm currently working at 42dot.
 - Add 'InnerSpec.keys()' Method with Collection Parameter Support https://github.com/naver/fixture-monkey/pull/934
 
 ## 📄 Blog <br>
+- [2025/7/6 - 환경별로 다른 git 설정 적용하기](https://haril.dev/blog/2025/07/06/seperating-git-configs-by-environment) <br>
 - [2025/6/8 - Kafka schema registry](https://haril.dev/blog/2025/06/08/Kafka-schema-registry) <br>
 - [2025/6/5 - Daily note 작성법](https://haril.dev/blog/2025/06/05/how-to-writing-daily-note) <br>
 - [2025/3/30 - 알아두면 쓸데있는 개발자 도구 - CLI 편](https://haril.dev/blog/2025/03/30/Best-Tools-of-2025-CLI) <br>
 - [2025/3/16 - 알아두면 쓸데있는 개발자 도구 - App 편](https://haril.dev/blog/2025/03/16/Best-Tools-of-2025-Apps) <br>
 - [2025/3/2 - 네트워크 모니터링을 위한 도구들](https://haril.dev/blog/2025/03/02/network-monitoring-tools) <br>
-- [2025/2/2 - 도커의 네트워크 타입들](https://haril.dev/blog/2025/02/02/Explore-Docker-Network-Types) <br>
 
 <!-- 조회수 -->
 <p align="right">
