@@ -51,14 +51,7 @@ I'm currently working at 42dot.
 
 """
 
-view_count = """
-<!-- 조회수 -->
-<p align="right">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsongkg7&count_bg=%238D7BF5&title_bg=%23252323&icon=github.svg&icon_color=%23FFFDFD&title=hits&edge_flat=false"/></a>
-</p>
-"""
-
-readme_text = f"{markdown_text}{latest_blog_post_list}{view_count}"
+readme_text = f"{markdown_text}{latest_blog_post_list}"
 
 with open("README.md", 'w') as f:
     f.write(readme_text)
